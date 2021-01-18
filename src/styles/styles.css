@@ -1,0 +1,121 @@
+.Header {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Header .HeaderName {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgba(186, 223, 245, 0.2);
+    color: #03178C;
+    border: 1px solid #7184f2;
+    box-shadow: 2px 2px 10px #7184f2;
+    border-radius: 5px;
+    padding: 5px;
+    max-width: 800px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.Header .HeaderName p {
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    line-height: 0.0;
+}
+
+.Header .Divisor {
+    background-color: #437de9;
+    margin-top: 20px;
+    height: 1px;
+    min-width: 300px;
+}
+
+.Header .Links {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    justify-content: space-around;
+}
+
+.Header .Links a {
+    text-decoration: none;
+    color: #03178C;
+}
+
+.Page {
+    max-width: 100%;
+}
+
+.NewBody {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
+.NewBody .BodyColl1 {
+    width: 30%;
+}
+
+.NewBody .BodyColl2 {
+    width: 70%;
+}
+
+.Tittle {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.Tittle p {
+    font-size: 30px;
+    color: #03178C;
+}
+
+.NewBody .Divisor {
+    width: 1px;
+    background-color: rgb(63, 59, 119);
+}
+
+.SkillsStyle {
+    display: flex;
+    padding-left: 30px;
+    text-align: start;
+    line-height: 0;
+    width: 100%;
+}
+
+.Skill  {
+    margin-right: 10px;
+    background-color: chartreuse;
+}
+
+.ExperienceStyle {
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    border-left: 2px solid #437de9;
+    padding-left: 10px;
+}
+
+.StrongExp {
+    margin-top: 30px;;
+}
+
+.StarsContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.StarsContainer img {
+    width: 10px;
+    height: 10px;
+    margin-bottom: 8.5px;
+    margin-top: 8.5px;
+}
