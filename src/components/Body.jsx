@@ -40,6 +40,16 @@ export default function() {
                     <br />
                     <small>vide projetos  2 e 3</small>
                 </p>
+                <p>
+                    Contrato de 4 meses para atuar como Dev FullStack Pleno - Outsmart Digital - SP Fevereiro/2020 - Maio/2020
+                    <br />
+                    <small>vide projeto 4</small>
+                </p>
+                <p>
+                    Contrato indeterminado para atuar como Dev FullStack Senior - Accurate Software - SP Maio/2020 até agora
+                    <br />
+                    <small>vide projeto 5</small>
+                </p>
                 <strong className='StrongExp'>Projetos</strong>
                     <p>1) Atuei como desenvolvedor fullstack no desenvolvimento de um sistema 
                         para o IBFC (Instituto Brasileiro de formação e capacitação). O sistema consiste em gerar
@@ -66,6 +76,16 @@ export default function() {
                         do valor da recarga, existe um segundo módulo Kotlin para efetuar a comunicação 
                         com um hardware externo que efetua a comunicação com o bilhete. 
                     </p>   
+                    <br />
+                    <p>4) Atuei como desenvolvedor Mobile, desenvolvendo em React Native um template 
+                        para uso interno da empresa contratante!
+                            Desenvolvi também um app para simplificar um sistema web existente. App 
+                        desenvolvido em React Native com Clean Code e Clean Architecture, utilizando 
+                        classes para centralização de dados.
+                    </p>   
+                    <br />
+                    <p>5) Atuando como desenvolvedor Mobile Java Android, desenvolvedor API com node e front com React.
+                    </p> 
                 </div>
             </div>
         </div>
