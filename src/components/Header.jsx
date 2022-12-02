@@ -7,7 +7,7 @@ export default function() {
         <div className='Header'>
             <div className='HeaderName'>
                 <p>Euclides Rufo Silva do Nascimento</p>
-                <p>Cell:(11) 97798-2781</p>
+                <p>Cell: +55 (44) 9 9114-4705</p>
                 <p>E-mail:euclideslione@icloud.com</p>
             </div>
             <div className='Divisor'></div>

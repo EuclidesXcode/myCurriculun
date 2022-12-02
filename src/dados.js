@@ -25,6 +25,10 @@ const skills = [
     {id: 27, skill: 'PostgreSQL', stars: 3},
     {id: 28, skill: 'DynamoDB', stars: 3},
     {id: 29, skill: 'Java', stars: 3},
+    {id: 30, skill: 'Next.js', stars: 5},
+    {id: 31, skill: 'Nest.js', stars: 5},
+    {id: 32, skill: 'Lambda', stars: 4},
+    {id: 33, skill: 'Serverless', stars: 4},
 ]
 
 export default skills;
