@@ -8,7 +8,7 @@ export default function() {
             <div className='HeaderName'>
                 <p>Euclides Rufo Silva do Nascimento</p>
                 <p>Cell: +55 (44) 9 9114-4705</p>
-                <p>E-mail:euclideslione@icloud.com</p>
+                <p>E-mail: euclideslione@icloud.com</p>
             </div>
             <div className='Divisor'></div>
             <div className='Links'>

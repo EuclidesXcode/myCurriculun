@@ -88,9 +88,11 @@ export default function() {
                         também com desenvolvimento Mobile em Swift para iOS e Kotlin para Android.
                     </p>  
                     <br />
-                    <p>
-                        Obs: Este curriculo foi desenvolvido em React e se encontra no meu github.
-                    </p> 
+                    <br />
+                    <br />
+                    <small>
+                        Obs: Este curriculo foi desenvolvido em React e se encontra no meu <a href='https://github.com/EuclidesXcode/myCurriculun'>github</a>.
+                    </small> 
                 </div>
             </div>
         </div>
