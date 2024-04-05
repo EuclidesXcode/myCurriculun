@@ -84,8 +84,15 @@ export default function() {
                         classes para centralização de dados.
                     </p>   
                     <br />
-                    <p>5) Atuando como desenvolvedor Mobile Java Android, desenvolvedor API com node e front com React.
-                    </p> 
+                    <p>5) Atuando como desenvolvedor Mobile Java Android, desenvolvedor API com node e front com React. Atuei recentemente
+                        também com desenvolvimento Mobile em Swift para iOS e Kotlin para Android.
+                    </p>  
+                    <br />
+                    <br />
+                    <br />
+                    <small>
+                        Obs: Este curriculo foi desenvolvido em React e se encontra no meu <a href='https://github.com/EuclidesXcode/myCurriculun'>github</a>.
+                    </small> 
                 </div>
             </div>
         </div>
