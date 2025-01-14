@@ -2,8 +2,8 @@
 import '../styles/styles.css';
 import React from 'react';
 
-import Skills from './subComponents/Skills';
-import Experience from './subComponents/Experience';
+import { Skills } from './subComponents/Skills';
+import { Experience } from './subComponents/Experience';
 
 export default function() {
     return (
@@ -96,5 +96,6 @@ export default function() {
                 </div>
             </div>
         </div>
+        }
     )
 }

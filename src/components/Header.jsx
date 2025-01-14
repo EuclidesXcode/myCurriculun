@@ -1,8 +1,7 @@
 import '../styles/styles.css';
 import React from 'react';
 
-// eslint-disable-next-line import/no-anonymous-default-export
-export default function() {
+export function() {
     return (
         <div className='Header'>
             <div className='HeaderName'>
