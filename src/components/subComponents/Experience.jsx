@@ -42,6 +42,17 @@ const experiences = [
         period: 'Nov/2019 – Jul/2020',
         desc: 'Desenvolvedor fullstack no sistema do IBFC (Instituto Brasileiro de Formação e Capacitação) para gestão de concursos públicos. Implementou o frontend em Vue.js com Vuetify e endpoints backend com alto volume de acessos e processamento de dados em tempo real.'
     },
+    {
+        role: 'Desenvolvedor & Suporte de Sistemas',
+        company: 'Autocom Automação Comercial LTDA',
+        period: 'Jan/2015 – Nov/2019',
+        bullets: [
+            'Desenvolvimento e manutenção do sistema de gestão de ordens de serviço e atendimento ao cliente.',
+            'Controle de chamados técnicos e emissão de notas fiscais eletrônicas.',
+            'Integração com a plataforma Tecnospeed para emissão e gerenciamento de documentos fiscais.',
+            'Suporte técnico ao sistema, diagnóstico de problemas e acompanhamento de melhorias.',
+        ]
+    },
 ];
 
 export default function Experience() {
