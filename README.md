@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# Euclides Rufo Silva do Nascimento
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Tech Lead · Full Stack Sênior**
 
-## Available Scripts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-euclides--silva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/euclides-silva-48b1b2157/)
+[![GitHub](https://img.shields.io/badge/GitHub-EuclidesXcode-181717?style=flat&logo=github)](https://github.com/EuclidesXcode)
+[![Email](https://img.shields.io/badge/Email-euclideslione%40icloud.com-D14836?style=flat&logo=apple)](mailto:euclideslione@icloud.com)
+[![Phone](https://img.shields.io/badge/Tel-+55_(44)_9_9114--4705-25D366?style=flat&logo=whatsapp)](tel:+5544991144705)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+Desenvolvedor Full Stack Sênior e Tech Lead com mais de 6 anos de experiência em desenvolvimento de aplicações web, mobile e APIs escaláveis. Especialista em Node.js, Flutter, React e arquiteturas modernas como Clean Architecture e BFF. Experiência sólida em cloud (GCP, AWS, Azure), DevOps e liderança técnica de equipes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Experiência Profissional
 
-### `npm test`
+### Tech Lead & Desenvolvedor Full Stack Sênior — Kaspper
+**Fev/2025 – Atual · São Paulo, SP**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Liderou o desenvolvimento do app mobile (Flutter) e Internet Banking (React) do banco Parabank.
+- Projetou e implementou a **API BFF com Node.js**, aplicando Clean Architecture, SOLID e DDD.
+- Estruturou infraestrutura no **Google Cloud Platform**: Cloud Run, Cloud Functions, CI/CD e monitoramento.
+- Definiu padrões técnicos, conduziu code reviews e mentoria da equipe de desenvolvimento.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Desenvolvedor Full Stack Sênior — Accurate Software
+**Mai/2020 – Fev/2025 · São Paulo, SP**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> **Projeto de destaque: "Meu Técnico" — 3 anos de duração**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Desenvolveu e manteve APIs REST em Node.js para gestão operacional de técnicos de campo.
+- Criou o **app Android em Java** com integração a serviços externos e sincronização offline.
+- Construiu o **painel administrativo em Ionic** com dashboard, relatórios e controle operacional.
+- Atuou em projetos mobile multiplataforma: Android (Java/Kotlin), iOS (Swift) e React Native.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Desenvolvedor Full Stack Pleno — FastProbr
+**Ago/2020 – Dez/2020 · São Paulo, SP** _(Contrato 4 meses)_
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Desenvolveu dois aplicativos Android em React Native para o setor de transporte público: um para recebimento de pagamentos via NFC e outro para recarga de bilhetes eletrônicos com integração a hardware especializado. Criou módulo nativo em Kotlin para comunicação direta com o hardware NFC.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Desenvolvedor Full Stack Pleno — Outsmart Digital
+**Fev/2020 – Mai/2020 · São Paulo, SP** _(Contrato 4 meses)_
 
-## Learn More
+Desenvolveu template React Native para padronização interna de componentes e aplicativo mobile que simplificava o acesso a um sistema web existente. Adotou Clean Code e Clean Architecture.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Desenvolvedor Pleno Node.js & Vue.js — Vivitech
+**Nov/2019 – Jul/2020 · São Paulo, SP**
 
-### Code Splitting
+Desenvolvedor fullstack no sistema do IBFC (Instituto Brasileiro de Formação e Capacitação) para gestão de concursos públicos. Frontend em Vue.js + Vuetify e backend com endpoints de alto volume e processamento de dados em tempo real.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Projetos em Destaque
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| # | Projeto | Empresa | Stack |
+|---|---------|---------|-------|
+| 01 | **API BFF — Internet Banking Parabank** | Kaspper (2025) | Node.js, Clean Architecture, DDD |
+| 02 | **Meu Técnico — Gestão de Campo** | Accurate Software (2022–2025) | Node.js, Java, Ionic |
+| 03 | **Sistema IBFC — Gestão de Concursos Públicos** | Vivitech (2019–2020) | Vue.js, Node.js |
+| 04 | **Apps NFC — Transporte Público** | FastProbr (2020) | React Native, Kotlin |
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Skills
 
-### Advanced Configuration
+### Linguagens
+`JavaScript` `TypeScript` `Python` `PHP` `Java` `Kotlin` `Swift` `Dart`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Frontend & Mobile
+`React` `React Native` `Vue.js` `Angular` `Next.js` `Flutter` `HTML / CSS` `Electron`
 
-### Deployment
+### Backend
+`Node.js` `Express` `Nest.js` `Laravel`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Cloud & DevOps
+`GCP` `AWS` `Azure` `Docker` `Jenkins` `CI/CD` `Serverless` `Lambda` `NGINX` `PM2`
 
-### `npm run build` fails to minify
+### Banco de Dados
+`MongoDB` `MySQL` `PostgreSQL` `DynamoDB`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### IA & LLM
+`AI Agents` `ChatGPT API` `Gemini` `Vertex AI` `AWS Bedrock` `LLM`
+
+### Arquitetura
+`Clean Architecture` `BFF` `Microservices` `RESTful APIs` `GraphQL` `DDD` `TDD`
+
+### Metodologia & Ferramentas
+`Git` `Scrum` `Kanban` `Agile` `DevOps` `Jest` `Cypress`
+
+---
+
+## Formação
+
+**Ciência da Computação** — Estácio de Sá · 2023
+
+---
+
+> Este currículo foi desenvolvido em React. O código-fonte está neste repositório.

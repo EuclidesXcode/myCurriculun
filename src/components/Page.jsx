@@ -2,12 +2,10 @@ import React, { useRef } from 'react';
 import '../styles/styles.css';
 import Header from './Header';
 import Body from './Body';
-
 export default function Page() {
     const cvRef = useRef();
 
-    const downloadPDF = async () => {
-        const html2pdf = (await import('html2pdf.js')).default;
+    const downloadPDF = () => {
         const opt = {
             margin: 0,
             filename: 'Euclides_Nascimento_CV.pdf',
@@ -15,7 +13,7 @@ export default function Page() {
             html2canvas: { scale: 2, useCORS: true, logging: false },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
         };
-        html2pdf().set(opt).from(cvRef.current).save();
+        window.html2pdf().set(opt).from(cvRef.current).save();
     };
 
     return (
