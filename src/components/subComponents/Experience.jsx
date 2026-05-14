@@ -44,13 +44,14 @@ const experiences = [
     },
     {
         role: 'Desenvolvedor & Suporte de Sistemas',
-        company: 'Autocom Automação Comercial LTDA',
+        company: 'Autocom Automação Comercial LTDA — Rio de Janeiro, RJ',
         period: 'Jan/2015 – Nov/2019',
         bullets: [
             'Desenvolvimento e manutenção do sistema de gestão de ordens de serviço e atendimento ao cliente.',
             'Controle de chamados técnicos e emissão de notas fiscais eletrônicas.',
             'Integração com a plataforma Tecnospeed para emissão e gerenciamento de documentos fiscais.',
             'Suporte técnico ao sistema, diagnóstico de problemas e acompanhamento de melhorias.',
+            'Stack principal: PHP, JavaScript e Java.',
         ]
     },
 ];

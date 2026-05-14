@@ -52,12 +52,13 @@ Desenvolveu template React Native para padronização interna de componentes e a
 ---
 
 ### Desenvolvedor & Suporte de Sistemas — Autocom Automação Comercial LTDA
-**Jan/2015 – Nov/2019**
+**Jan/2015 – Nov/2019 · Rio de Janeiro, RJ**
 
 - Desenvolvimento e manutenção do sistema de gestão de ordens de serviço e atendimento ao cliente.
 - Controle de chamados técnicos e emissão de notas fiscais eletrônicas.
 - Integração com a plataforma **Tecnospeed** para emissão e gerenciamento de documentos fiscais.
 - Suporte técnico ao sistema, diagnóstico de problemas e acompanhamento de melhorias.
+- Stack principal: **PHP**, **JavaScript** e **Java**.
 
 ---
 
