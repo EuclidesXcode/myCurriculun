@@ -1,20 +1,49 @@
-import '../styles/styles.css';
 import React from 'react';
+import '../styles/styles.css';
+import Skills from './subComponents/Skills';
 
-// eslint-disable-next-line import/no-anonymous-default-export
-export default function() {
+export default function Header() {
     return (
-        <div className='Header'>
-            <div className='HeaderName'>
-                <p>Euclides Rufo Silva do Nascimento</p>
-                <p>Cell: +55 (44) 9 9114-4705</p>
-                <p>E-mail: euclideslione@icloud.com</p>
+        <div className="cv-sidebar">
+            <div>
+                <p className="cv-name">Euclides Rufo Silva<br />do Nascimento</p>
+                <p className="cv-title">Tech Lead · Full Stack Sênior</p>
             </div>
-            <div className='Divisor'></div>
-            <div className='Links'>
-                <a href="https://github.com/EuclidesXcode">GitHub ( link )</a>
-                <a href="https://www.linkedin.com/in/euclides-silva-48b1b2157/">Linkedin ( link )</a>
+
+            <hr className="sidebar-divider" />
+
+            <div>
+                <p className="sidebar-section-title">Contato</p>
+                <div className="contact-list">
+                    <div className="contact-item">
+                        <span className="contact-icon">📞</span>
+                        <span>+55 (44) 9 9114-4705</span>
+                    </div>
+                    <div className="contact-item">
+                        <span className="contact-icon">✉</span>
+                        <span>euclideslione@icloud.com</span>
+                    </div>
+                    <div className="contact-item">
+                        <span className="contact-icon">🐙</span>
+                        <a href="https://github.com/EuclidesXcode" target="_blank" rel="noreferrer">
+                            github.com/EuclidesXcode
+                        </a>
+                    </div>
+                    <div className="contact-item">
+                        <span className="contact-icon">💼</span>
+                        <a href="https://www.linkedin.com/in/euclides-silva-48b1b2157/" target="_blank" rel="noreferrer">
+                            linkedin/euclides-silva
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <hr className="sidebar-divider" />
+
+            <div>
+                <p className="sidebar-section-title">Skills</p>
+                <Skills />
             </div>
         </div>
-    )
+    );
 }
