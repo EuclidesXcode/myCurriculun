@@ -1,21 +1,19 @@
-/* eslint-disable import/no-anonymous-default-export */
 import React from 'react';
+import skillCategories from '../../dados';
 
-import skills from '../../dados';
-
-export default function() {
-
+export default function Skills() {
     return (
-        <div>
-            {skills.map((obj, i) => {
-                const skill = obj.skill
-
-                return (
-                <div key={i} className='SkillsStyle'>
-                    <p>{skill}</p>
+        <div className="skills-container">
+            {skillCategories.map((cat) => (
+                <div key={cat.category}>
+                    <p className="skill-category-title">{cat.category}</p>
+                    <div className="skill-chips">
+                        {cat.skills.map((skill) => (
+                            <span key={skill} className="skill-chip">{skill}</span>
+                        ))}
+                    </div>
                 </div>
-                )
-            })}
+            ))}
         </div>
-    )
+    );
 }
