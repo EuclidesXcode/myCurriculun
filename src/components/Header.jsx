@@ -7,7 +7,7 @@ export default function Header() {
         <div className="cv-sidebar">
             <div>
                 <p className="cv-name">Euclides Rufo Silva<br />do Nascimento</p>
-                <p className="cv-title">Tech Lead · Full Stack Sênior</p>
+                <p className="cv-title">Engenheiro de Software Sênior · Python &amp; React · Segurança de Aplicações</p>
             </div>
 
             <hr className="sidebar-divider" />

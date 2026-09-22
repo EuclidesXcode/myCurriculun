@@ -1,35 +1,43 @@
 const skillCategories = [
     {
         category: 'Linguagens',
-        skills: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'Java', 'Kotlin', 'Swift', 'Dart']
+        skills: ['Python', 'TypeScript', 'JavaScript', 'Java', 'Kotlin', 'PHP', 'Swift']
     },
     {
-        category: 'Frontend & Mobile',
-        skills: ['React', 'React Native', 'Vue.js', 'Angular', 'Next.js', 'Flutter', 'HTML / CSS', 'Electron']
+        category: 'Backend (Python)',
+        skills: ['Python', 'Django', 'FastAPI', 'RESTful APIs', 'MySQL']
     },
     {
-        category: 'Backend',
-        skills: ['Node.js', 'Express', 'Nest.js', 'Laravel']
+        category: 'Segurança de Aplicações',
+        skills: ['OWASP Top 10', 'Secure Coding', 'Correção de Vulnerabilidades', 'Pentest', 'LGPD', 'JWT / AuthN & AuthZ', 'SonarQube', 'DevSecOps']
     },
     {
-        category: 'Cloud & DevOps',
-        skills: ['GCP', 'AWS', 'Azure', 'Docker', 'Jenkins', 'CI/CD', 'Serverless', 'Lambda', 'NGINX', 'PM2']
+        category: 'Frontend',
+        skills: ['React', 'Hooks', 'TypeScript', 'Vite', 'Next.js', 'Angular', 'Vue.js', 'HTML / CSS']
+    },
+    {
+        category: 'Outras Stacks Backend',
+        skills: ['Node.js', 'Express', 'Nest.js', 'GraphQL', 'Java / Spring Boot']
     },
     {
         category: 'Banco de Dados',
-        skills: ['MongoDB', 'MySQL', 'PostgreSQL', 'DynamoDB']
+        skills: ['MySQL', 'PostgreSQL', 'SQL Server', 'MongoDB', 'DynamoDB']
     },
     {
-        category: 'IA & LLM',
-        skills: ['AI Agents', 'ChatGPT API', 'Gemini', 'Vertex AI', 'AWS Bedrock', 'LLM']
+        category: 'Cloud & DevOps',
+        skills: ['CI/CD', 'GCP', 'AWS', 'Azure', 'Docker', 'Jenkins', 'Serverless']
+    },
+    {
+        category: 'Testes & Qualidade',
+        skills: ['SonarQube', 'Cypress', 'Postman', 'Jest', 'TDD', 'Code Review']
     },
     {
         category: 'Arquitetura',
-        skills: ['Clean Architecture', 'BFF', 'Microservices', 'RESTful APIs', 'GraphQL', 'DDD', 'TDD']
+        skills: ['Clean Architecture', 'SOLID', 'DDD', 'Microservices', 'RESTful APIs']
     },
     {
-        category: 'Metodologia & Ferramentas',
-        skills: ['Git', 'Scrum', 'Kanban', 'Agile', 'DevOps', 'Jest', 'Cypress']
+        category: 'Ferramentas & Metodologia',
+        skills: ['Git', 'Bitbucket', 'Scrum', 'Kanban', 'Agile', 'DevSecOps']
     }
 ];
 

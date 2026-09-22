@@ -1,6 +1,6 @@
 # Euclides Rufo Silva do Nascimento
 
-**Tech Lead · Full Stack Sênior**
+**Engenheiro de Software Sênior · Python & React · Segurança de Aplicações**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-euclides--silva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/euclides-silva-48b1b2157/)
 [![GitHub](https://img.shields.io/badge/GitHub-EuclidesXcode-181717?style=flat&logo=github)](https://github.com/EuclidesXcode)
@@ -9,63 +9,85 @@
 
 ---
 
-Desenvolvedor Full Stack Sênior e Tech Lead com mais de 6 anos de experiência em desenvolvimento de aplicações web, mobile e APIs escaláveis. Especialista em Node.js, Flutter, React e arquiteturas modernas como Clean Architecture e BFF. Experiência sólida em cloud (GCP, AWS, Azure), DevOps e liderança técnica de equipes.
+Engenheiro de Software Sênior fullstack com mais de 10 anos de experiência e foco em **Python** (**Django** e **FastAPI**) e **React**, com forte atuação em **Segurança de Aplicações**. Desenvolvo e evoluo APIs RESTful seguras, aplicando **Secure Coding**, mitigação de vulnerabilidades do **OWASP Top 10**, autenticação/autorização robusta e conformidade com a **LGPD** — incluindo correção de vulnerabilidades apontadas em Pentest. No frontend, construo interfaces modernas e responsivas em **React** (com TypeScript, Hooks e Vite). Atuo em todo o ciclo de desenvolvimento (análise, codificação, testes, deploy e manutenção), com CI/CD, **SonarQube**, code review e práticas de **DevSecOps**, sempre em times ágeis (Scrum/Kanban).
 
 ---
 
 ## Experiência Profissional
 
-### Tech Lead & Desenvolvedor Full Stack Sênior — Kaspper
-**Fev/2025 – Atual · São Paulo, SP**
+### Engenheiro de Software Sênior — Kaspper
+**Mar/2025 – Atual · São Paulo, SP**
 
-- Liderou o desenvolvimento do app mobile (Flutter) e Internet Banking (React) do banco Parabank.
-- Projetou e implementou a **API BFF com Node.js**, aplicando Clean Architecture, SOLID e DDD.
-- Estruturou infraestrutura no **Google Cloud Platform**: Cloud Run, Cloud Functions, CI/CD e monitoramento.
-- Definiu padrões técnicos, conduziu code reviews e mentoria da equipe de desenvolvimento.
+> **Aplicação bancária com forte foco em segurança**
+
+- Desenvolve o **Internet Banking em React + TypeScript** (Hooks, componentes funcionais, Vite) do banco Parabank, criando toda a arquitetura de frontend do zero.
+- Implementa **Secure Coding** e mitigação de vulnerabilidades do **OWASP Top 10** em uma aplicação bancária: autenticação/autorização com **JWT**, controle de acesso por perfil e proteção de dados sensíveis.
+- Estruturou do zero as **APIs RESTful** e todo o ambiente DevOps no **Google Cloud** (CI/CD, monitoramento), com contratos documentados e testes cobrindo fluxos críticos.
+- Participa de **code reviews** e definições técnicas, com atenção contínua à segurança, privacidade de dados e qualidade das entregas.
 
 ---
 
-### Desenvolvedor Full Stack Sênior — Accurate Software
-**Mai/2020 – Fev/2025 · São Paulo, SP**
+### Engenheiro de Software & CEO — Eucode Desenvolvimento de Software LTDA
+**Jan/2015 – Atual · Rio de Janeiro, RJ**
+
+Empresa própria de desenvolvimento de software. Atuação full-stack na entrega de projetos sob demanda, com **Python** (**Django** e **FastAPI**) e **React** entre as principais tecnologias. Foco em APIs RESTful seguras, **Secure Coding**, boas práticas de **OWASP** e proteção de dados (**LGPD**), com bancos **MySQL/PostgreSQL** e versionamento via **Git/Bitbucket**.
+
+---
+
+### Engenheiro de Software Sênior — Segurança & Backend · React — GM Financial _(alocado via Accurate Software)_
+**Abr/2024 – Mar/2025 · Remoto**
+
+> **Segurança de aplicações e correção de vulnerabilidades no setor financeiro**
+
+- Corrigiu vulnerabilidades e aplicou **Secure Coding** e mitigação do **OWASP Top 10** em aplicações financeiras críticas, com autenticação **JWT** e controle de acesso por perfil.
+- Apoiou iniciativas de conformidade com a **LGPD**, garantindo proteção e tratamento adequado de dados sensíveis.
+- Desenvolveu, consumiu e documentou **APIs RESTful seguras**, integrando sistemas via **REST e SOAP**.
+- Implementou interfaces web em **React (TypeScript)** e validou qualidade e segurança do código com **SonarQube**, testes automatizados e code reviews.
+- Atuou em pipelines de **CI/CD** com práticas de **DevSecOps** em arquitetura distribuída.
+
+---
+
+### Engenheiro de Software Sênior — Accurate Software
+**Mai/2021 – Mar/2025 · São Paulo, SP**
 
 > **Projeto de destaque: "Meu Técnico" — 3 anos de duração**
 
-- Desenvolveu e manteve APIs REST em Node.js para gestão operacional de técnicos de campo.
-- Criou o **app Android em Java** com integração a serviços externos e sincronização offline.
+- Criou o **app Android nativo em Java** com integração a serviços externos e sincronização offline.
+- Atuou em projetos mobile multiplataforma com **Java/Kotlin (Android)**, **React Native** e iOS (Swift).
+- Desenvolveu e manteve APIs REST em Node.js (e GraphQL) para gestão operacional de técnicos de campo.
 - Construiu o **painel administrativo em Ionic** com dashboard, relatórios e controle operacional.
-- Atuou em projetos mobile multiplataforma: Android (Java/Kotlin), iOS (Swift) e React Native.
+- **Claro Brasil** (Fev/2023–Abr/2024): desenvolvimento de software para o setor de e-care.
 
 ---
 
-### Desenvolvedor Full Stack Pleno — FastProbr
-**Ago/2020 – Dez/2020 · São Paulo, SP** _(Contrato 4 meses)_
+### Engenheiro de Software Pleno — Outsmart Digital
+**Fev/2021 – Mai/2021 · São Paulo, SP**
 
-Desenvolveu dois aplicativos Android em React Native para o setor de transporte público: um para recebimento de pagamentos via NFC e outro para recarga de bilhetes eletrônicos com integração a hardware especializado. Criou módulo nativo em Kotlin para comunicação direta com o hardware NFC.
-
----
-
-### Desenvolvedor Full Stack Pleno — Outsmart Digital
-**Fev/2020 – Mai/2020 · São Paulo, SP** _(Contrato 4 meses)_
-
-Desenvolveu template React Native para padronização interna de componentes e aplicativo mobile que simplificava o acesso a um sistema web existente. Adotou Clean Code e Clean Architecture.
+Desenvolveu template em **React Native** para padronização interna de componentes e aplicativo mobile que simplificava o acesso a um sistema web existente. Trabalhou com GraphQL e adotou Clean Code e Clean Architecture.
 
 ---
 
-### Desenvolvedor & Suporte de Sistemas — Autocom Automação Comercial LTDA
+### Engenheiro de Software — FastProbr
+**Ago/2020 – Fev/2021 · São Paulo, SP**
+
+Desenvolveu aplicativos Android em **React Native** para o setor de transporte público: um para recebimento de pagamentos via NFC e outro para recarga de bilhetes eletrônicos com integração a hardware especializado. Criou módulo nativo em Kotlin para comunicação direta com o hardware NFC.
+
+---
+
+### Engenheiro de Software — ViViTECH
+**Nov/2019 – Ago/2020 · São Paulo, SP**
+
+Desenvolvedor full-stack no sistema do IBFC (Instituto Brasileiro de Formação e Capacitação) para gestão de concursos públicos. Frontend em Vue.js + Vuetify e backend em Node.js com Docker, alto volume de acessos e processamento de dados em tempo real.
+
+---
+
+### Desenvolvedor Java Full Stack (Júnior) — Autocom Automação Comercial
 **Jan/2015 – Nov/2019 · Rio de Janeiro, RJ**
 
-- Desenvolvimento e manutenção do sistema de gestão de ordens de serviço e atendimento ao cliente.
-- Controle de chamados técnicos e emissão de notas fiscais eletrônicas.
-- Integração com a plataforma **Tecnospeed** para emissão e gerenciamento de documentos fiscais.
-- Suporte técnico ao sistema, diagnóstico de problemas e acompanhamento de melhorias.
-- Stack principal: **PHP**, **JavaScript** e **Java**.
-
----
-
-### Desenvolvedor Pleno Node.js & Vue.js — Vivitech
-**Nov/2019 – Jul/2020 · São Paulo, SP**
-
-Desenvolvedor fullstack no sistema do IBFC (Instituto Brasileiro de Formação e Capacitação) para gestão de concursos públicos. Frontend em Vue.js + Vuetify e backend com endpoints de alto volume e processamento de dados em tempo real.
+- Atuação no ciclo de vida de desenvolvimento de software (SDLC) para sistemas internos de gestão.
+- Desenvolvimento e manutenção do sistema de controle de chamados e ordens de serviço com **Java** (backend) e **Vue.js** (frontend).
+- Suporte técnico especializado a usuários finais, garantindo usabilidade e resolução de problemas críticos em sistemas internos e de revenda.
+- Foco na melhoria da experiência do usuário e na otimização de fluxos operacionais através de novas funcionalidades.
 
 ---
 
@@ -73,44 +95,50 @@ Desenvolvedor fullstack no sistema do IBFC (Instituto Brasileiro de Formação e
 
 | # | Projeto | Empresa | Stack |
 |---|---------|---------|-------|
-| 01 | **API BFF — Internet Banking Parabank** | Kaspper (2025) | Node.js, Clean Architecture, DDD |
-| 02 | **Meu Técnico — Gestão de Campo** | Accurate Software (2022–2025) | Node.js, Java, Ionic |
-| 03 | **Sistema IBFC — Gestão de Concursos Públicos** | Vivitech (2019–2020) | Vue.js, Node.js |
-| 04 | **Apps NFC — Transporte Público** | FastProbr (2020) | React Native, Kotlin |
+| 01 | **Internet Banking Parabank — React + Segurança** | Kaspper (2025) | React, TypeScript, Vite, OWASP, JWT, Secure Coding, CI/CD |
+| 02 | **Segurança de Aplicações — Setor Financeiro** | GM Financial / Accurate (2024–2025) | OWASP, Secure Coding, JWT, LGPD, SonarQube, React, DevSecOps |
+| 03 | **Projetos Python (Django / FastAPI)** | Eucode (2015–Atual) | Python, Django, FastAPI, React, MySQL, OWASP, LGPD |
+| 04 | **Sistema IBFC — Gestão de Concursos Públicos** | ViViTECH (2019–2020) | Vue.js, Node.js |
 
 ---
 
 ## Skills
 
 ### Linguagens
-`JavaScript` `TypeScript` `Python` `PHP` `Java` `Kotlin` `Swift` `Dart`
+`Python` `TypeScript` `JavaScript` `Java` `Kotlin` `PHP` `Swift`
 
-### Frontend & Mobile
-`React` `React Native` `Vue.js` `Angular` `Next.js` `Flutter` `HTML / CSS` `Electron`
+### Backend (Python)
+`Python` `Django` `FastAPI` `RESTful APIs` `MySQL`
 
-### Backend
-`Node.js` `Express` `Nest.js` `Laravel`
+### Segurança de Aplicações
+`OWASP Top 10` `Secure Coding` `Correção de Vulnerabilidades` `Pentest` `LGPD` `JWT / AuthN & AuthZ` `SonarQube` `DevSecOps`
 
-### Cloud & DevOps
-`GCP` `AWS` `Azure` `Docker` `Jenkins` `CI/CD` `Serverless` `Lambda` `NGINX` `PM2`
+### Frontend
+`React` `Hooks` `TypeScript` `Vite` `Next.js` `Angular` `Vue.js` `HTML / CSS`
+
+### Outras Stacks Backend
+`Node.js` `Express` `Nest.js` `GraphQL` `Java / Spring Boot`
 
 ### Banco de Dados
-`MongoDB` `MySQL` `PostgreSQL` `DynamoDB`
+`MySQL` `PostgreSQL` `SQL Server` `MongoDB` `DynamoDB`
 
-### IA & LLM
-`AI Agents` `ChatGPT API` `Gemini` `Vertex AI` `AWS Bedrock` `LLM`
+### Cloud & DevOps
+`CI/CD` `GCP` `AWS` `Azure` `Docker` `Jenkins` `Serverless`
+
+### Testes & Qualidade
+`SonarQube` `Cypress` `Postman` `Jest` `TDD` `Code Review`
 
 ### Arquitetura
-`Clean Architecture` `BFF` `Microservices` `RESTful APIs` `GraphQL` `DDD` `TDD`
+`Clean Architecture` `SOLID` `DDD` `Microservices` `RESTful APIs`
 
-### Metodologia & Ferramentas
-`Git` `Scrum` `Kanban` `Agile` `DevOps` `Jest` `Cypress`
+### Ferramentas & Metodologia
+`Git` `Bitbucket` `Scrum` `Kanban` `Agile` `DevSecOps`
 
 ---
 
 ## Formação
 
-**Ciência da Computação** — Estácio de Sá · 2023
+**Ciência da Computação** — Estácio de Sá · _Cursando_
 
 ---
 
