@@ -1,35 +1,44 @@
-const skills = [
-    {id: 1, skill: 'PHP', stars: 4},
-    {id: 2, skill: 'Laravel', stars: 4},
-    {id: 3, skill: 'Angular', stars: 4},
-    {id: 4, skill: 'Vue.js', stars: 5},
-    {id: 5, skill: 'JavaScript', stars: 5},
-    {id: 6, skill: 'Express', stars: 5},
-    {id: 7, skill: 'TypeScript', stars: 5},
-    {id: 34, skill: 'Swift', stars: 3},
-    {id: 10, skill: 'AWS', stars: 4},
-    {id: 12, skill: 'Flutter', stars: 3},
-    {id: 13, skill: 'Dart', stars: 3},
-    {id: 14, skill: 'Python', stars: 3},
-    {id: 15, skill: 'HTML CSS', stars: 5},
-    {id: 16, skill: 'Electron', stars: 5},
-    {id: 17, skill: 'React', stars: 5},
-    {id: 18, skill: 'React-Native', stars: 5},
-    {id: 19, skill: 'Node.js', stars: 5},
-    {id: 20, skill: 'Kotlin', stars: 3},
-    {id: 21, skill: 'Git', stars: 5},
-    {id: 22, skill: 'Docker', stars: 3},
-    {id: 23, skill: 'PM2', stars: 3},
-    {id: 24, skill: 'NGINX', stars: 3},
-    {id: 25, skill: 'MongoDB', stars: 5},
-    {id: 26, skill: 'MySQL', stars: 5},
-    {id: 27, skill: 'PostgreSQL', stars: 5},
-    {id: 28, skill: 'DynamoDB', stars: 5},
-    {id: 29, skill: 'Java', stars: 3},
-    {id: 30, skill: 'Next.js', stars: 5},
-    {id: 31, skill: 'Nest.js', stars: 5},
-    {id: 32, skill: 'Lambda', stars: 5},
-    {id: 33, skill: 'Serverless', stars: 5},
-]
+const skillCategories = [
+    {
+        category: 'Linguagens',
+        skills: ['Python', 'TypeScript', 'JavaScript', 'Java', 'Kotlin', 'PHP', 'Swift']
+    },
+    {
+        category: 'Backend (Python)',
+        skills: ['Python', 'Django', 'FastAPI', 'RESTful APIs', 'MySQL']
+    },
+    {
+        category: 'Segurança de Aplicações',
+        skills: ['OWASP Top 10', 'Secure Coding', 'Correção de Vulnerabilidades', 'Pentest', 'LGPD', 'JWT / AuthN & AuthZ', 'SonarQube', 'DevSecOps']
+    },
+    {
+        category: 'Frontend',
+        skills: ['React', 'Hooks', 'TypeScript', 'Vite', 'Next.js', 'Angular', 'Vue.js', 'HTML / CSS']
+    },
+    {
+        category: 'Outras Stacks Backend',
+        skills: ['Node.js', 'Express', 'Nest.js', 'GraphQL', 'Java / Spring Boot']
+    },
+    {
+        category: 'Banco de Dados',
+        skills: ['MySQL', 'PostgreSQL', 'SQL Server', 'MongoDB', 'DynamoDB']
+    },
+    {
+        category: 'Cloud & DevOps',
+        skills: ['CI/CD', 'GCP', 'AWS', 'Azure', 'Docker', 'Jenkins', 'Serverless']
+    },
+    {
+        category: 'Testes & Qualidade',
+        skills: ['SonarQube', 'Cypress', 'Postman', 'Jest', 'TDD', 'Code Review']
+    },
+    {
+        category: 'Arquitetura',
+        skills: ['Clean Architecture', 'SOLID', 'DDD', 'Microservices', 'RESTful APIs']
+    },
+    {
+        category: 'Ferramentas & Metodologia',
+        skills: ['Git', 'Bitbucket', 'Scrum', 'Kanban', 'Agile', 'DevSecOps']
+    }
+];
 
-export default skills;
+export default skillCategories;
