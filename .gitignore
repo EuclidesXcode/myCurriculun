@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Build output (react-scripts)
+/build
+
+# macOS
+.DS_Store
+
+# Claude Code local config
+.claude/

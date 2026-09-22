@@ -4,27 +4,27 @@ import Experience from './subComponents/Experience';
 const projects = [
     {
         num: '01',
-        name: 'API BFF — Internet Banking Parabank',
+        name: 'Internet Banking Parabank — React + Segurança de Aplicações',
         company: 'Kaspper · 2025',
-        desc: 'Arquitetura e implementação de uma API BFF (Backend for Frontend) em Node.js com Clean Architecture, princípios SOLID e DDD. Responsável por consolidar dados de múltiplos microsserviços bancários em contratos otimizados para o frontend React e o app Flutter.'
+        desc: 'Internet Banking desenvolvido em React com TypeScript (Hooks, Vite), com toda a arquitetura de frontend e as APIs criadas do zero. Forte foco em segurança de aplicação bancária: Secure Coding, mitigação do OWASP Top 10, autenticação/autorização com JWT, proteção de dados sensíveis e ambiente DevOps com CI/CD no Google Cloud.'
     },
     {
         num: '02',
-        name: 'Meu Técnico — Gestão de Campo',
-        company: 'Accurate Software · 2022–2025',
-        desc: 'Sistema multiplataforma de 3 anos de desenvolvimento para gestão de técnicos de campo. Composto por APIs REST em Node.js, app Android em Java com sincronização offline e painel administrativo em Ionic com dashboard operacional e relatórios gerenciais.'
+        name: 'Segurança de Aplicações — Setor Financeiro',
+        company: 'GM Financial (via Accurate) · 2024–2025',
+        desc: 'Correção de vulnerabilidades e aplicação de Secure Coding e OWASP Top 10 em aplicações financeiras críticas. APIs RESTful seguras (JWT, controle de acesso por perfil), apoio à conformidade com LGPD, análise de qualidade e segurança com SonarQube, frontend em React (TypeScript) e pipelines de CI/CD com práticas de DevSecOps.'
     },
     {
         num: '03',
-        name: 'Sistema IBFC — Gestão de Concursos Públicos',
-        company: 'Vivitech · 2019–2020',
-        desc: 'Sistema centralizado para gestão de concursos públicos em todo o Brasil: controle de candidatos, importação de provas e gabaritos, cálculo de acertos e classificação final. Frontend em Vue.js + Vuetify e backend com endpoints de alto volume em Node.js.'
+        name: 'Projetos Python (Django / FastAPI) — Eucode',
+        company: 'Eucode · 2015–Atual',
+        desc: 'Entrega de projetos full-stack sob demanda com backends em Python usando Django e FastAPI, APIs RESTful seguras e frontends em React. Aplicação de Secure Coding, boas práticas de OWASP, proteção de dados (LGPD), bancos MySQL/PostgreSQL e versionamento via Git/Bitbucket.'
     },
     {
         num: '04',
-        name: 'Apps NFC — Pagamento e Recarga em Transporte Público',
-        company: 'FastProbr · 2020',
-        desc: 'Dois aplicativos Android em React Native: um para recebimento de pagamentos via NFC e outro para recarga de bilhetes eletrônicos com integração a hardware especializado. Módulo nativo Kotlin para comunicação direta com o hardware NFC, garantindo transações rápidas e seguras.'
+        name: 'Sistema IBFC — Gestão de Concursos Públicos',
+        company: 'ViViTECH · 2019–2020',
+        desc: 'Sistema centralizado para gestão de concursos públicos em todo o Brasil: controle de candidatos, importação de provas e gabaritos, cálculo de acertos e classificação final. Frontend em Vue.js + Vuetify e backend com endpoints de alto volume em Node.js.'
     },
 ];
 
@@ -33,11 +33,15 @@ export default function Body() {
         <div className="cv-main">
             <div>
                 <p className="summary-text">
-                    Desenvolvedor Full Stack Sênior e Tech Lead com mais de 6 anos de experiência em desenvolvimento
-                    de aplicações web, mobile e APIs escaláveis. Especialista em Node.js, Flutter, React e
-                    arquiteturas modernas como Clean Architecture e BFF. Experiência sólida em cloud (GCP, AWS, Azure),
-                    DevOps e liderança técnica de equipes. Apaixonado por boas práticas, código limpo e soluções que
-                    entregam valor real ao usuário.
+                    Engenheiro de Software Sênior fullstack com mais de 10 anos de experiência e foco em
+                    <strong> Python</strong> (<strong>Django</strong> e <strong>FastAPI</strong>) e <strong>React</strong>,
+                    com forte atuação em <strong>Segurança de Aplicações</strong>. Desenvolvo e evoluo APIs RESTful
+                    seguras, aplicando <strong>Secure Coding</strong>, mitigação de vulnerabilidades do
+                    <strong> OWASP Top 10</strong>, autenticação/autorização robusta e conformidade com a
+                    <strong> LGPD</strong> — incluindo correção de vulnerabilidades apontadas em Pentest. No frontend,
+                    construo interfaces modernas e responsivas em React (com TypeScript, Hooks e Vite). Atuo em todo o
+                    ciclo de desenvolvimento (análise, codificação, testes, deploy e manutenção), com CI/CD, SonarQube,
+                    code review e práticas de DevSecOps, sempre em times ágeis (Scrum/Kanban).
                 </p>
             </div>
 
@@ -78,7 +82,7 @@ export default function Body() {
                         <p className="education-degree">Ciência da Computação</p>
                         <p className="education-school">Estácio de Sá</p>
                     </div>
-                    <span className="education-year">2023</span>
+                    <span className="education-year">Cursando</span>
                 </div>
             </div>
 
